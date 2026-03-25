@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&height=80&lines=KhydRa" alt="KhydRa Banner" />
+</p>
 
-<!--
-**semihyurur/semihyurur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 01 // SYS_INIT
+> **ROLE:** `Full-Stack Dev & UI/UX` | 
+> **CORE:** *"Designing and building the future, one pixel at a time."*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 02 // TECH_STACK_SCAN
+| ⚡ FRONTEND | 🔧 BACKEND | ⚙️ DEVOPS & TOOLS |
+| :--- | :--- | :--- |
+| `HTML/CSS/JS` | `PHP / MySQL` | `Git / GitHub` |
+| `React / JSX` | `Python / Flask` | `Linux / Bash` |
+| `Tailwind / BS5` | `Node / Express` | `Nginx / Apache` |
+| `jQuery / AJAX` | `REST API / JWT` | `Docker / CI-CD` |
+| `TypeScript / Vue` | `PGSQL / Redis` | `Cloudflare / VPS` |
+
+---
+
+### 03 // CONTACT
+* 🌐 **Web:** [semihyurur.com.tr](https://semihyurur.com.tr/)
+* 📧 **Mail:** `info@semihyurur.com.tr`
+* 💬 **Discord:** `khydra2`
+
